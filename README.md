@@ -10,7 +10,7 @@ Dabei trinke ich gerne eine Schöne und Heiße Tasse ☕.
 Ich bin ser Lernfreudig und bilde mich mit jedem Projekt weiter in neuen Themen Gebieten oder verbesser gerne meinen Code. 🐊
 
 ## Aktuelle Projekt
--> Sons of Roleplay 
+-> Sons of Roleplay :- 
 -> Yaca Voice System ["https://yaca.systems/"]
 
 
