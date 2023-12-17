@@ -12,8 +12,8 @@ Ich bin ser Lernfreudig und bilde mich mit jedem Projekt weiter in neuen Themen 
 ## Was kann ich ?
  ➡️ Java <br /> 
  ➡️ Javascript <br /> 
- ➡️ C# <br /> 
- ➡️ C++ <br />  
+ ➡️ C# <br />
+ ➡️ C++ <br /> 
  ➡️ Blueprint <br /> 
  ➡️ PHP <br /> 
  ➡️ Typescript <br /> 
