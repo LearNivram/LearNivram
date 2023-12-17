@@ -4,7 +4,7 @@
 
 ## Über mich
 
-Willkommen auf meinem Profile,
+Willkommen auf meinem Profil,
 ich liebe es gerne Spannede Aufgaben zu lösen und wenn es sein muss die ganze Nacht an einem Projekt zu Arbeiten!
 Dabei trinke ich gerne eine Schöne und Heiße Tasse ☕. <br />
 Ich bin ser Lernfreudig und bilde mich mit jedem Projekt weiter in neuen Themen Gebieten oder verbesser gerne meinen Code. 🐊
