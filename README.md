@@ -25,7 +25,6 @@ Ich bin ser Lernfreudig und bilde mich mit jedem Projekt weiter in neuen Themen 
 ## Aktuelle Projekt
 
 ➡️ Sons of Roleplay <br /> 
-➡️ Yaca Voice System ["https://yaca.systems/"]
 
 
 <!--
