@@ -11,12 +11,10 @@ Ich bin ser Lernfreudig und bilde mich mit jedem Projekt weiter in neuen Themen 
 
 ## Was kann ich ?
  ➡️ Java <br /> 
- ➡️ Javascript <br /> 
+ ➡️ Javascript / Typescript <br /> 
  ➡️ C# <br />
  ➡️ C++ <br /> 
- ➡️ Blueprint <br /> 
  ➡️ PHP <br /> 
- ➡️ Typescript <br /> 
  ➡️ Lua <br /> 
  ➡️ VueJs Framework <br /> 
  ➡️ Angular Framework  / Server Side Rederring <br /> 
@@ -26,7 +24,9 @@ Ich bin ser Lernfreudig und bilde mich mit jedem Projekt weiter in neuen Themen 
  ➡️ Go
 
 ## Aktuelle Projekt
+🔭 I am currently working on Chronexus.de
 
+🌱 I learning React and Haskell for fun!
 
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
