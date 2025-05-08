@@ -26,7 +26,7 @@ Ich bin ser Lernfreudig und bilde mich mit jedem Projekt weiter in neuen Themen 
 ## Aktuelle Projekt
 🔭 I am currently working on Chronexus.de
 
-🌱 I learning React and Haskell for fun!
+🌱 I learning Svelte and Haskell for fun!
 
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
