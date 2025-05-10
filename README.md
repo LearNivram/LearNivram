@@ -19,6 +19,7 @@ Ich bin ser Lernfreudig und bilde mich mit jedem Projekt weiter in neuen Themen 
  ➡️ VueJs Framework <br /> 
  ➡️ Angular Framework  / Server Side Rederring <br /> 
  ➡️ React <br /> 
+ ➡️ Svelte <br /> 
  ➡️ Python <br />
  ➡️ Haskell <br />
  ➡️ Go
