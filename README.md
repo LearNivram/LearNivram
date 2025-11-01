@@ -22,12 +22,13 @@ Ich bin ser Lernfreudig und bilde mich mit jedem Projekt weiter in neuen Themen 
  ➡️ Svelte <br /> 
  ➡️ Python <br />
  ➡️ Haskell <br />
- ➡️ Go
+ ➡️ Go <br />
+ ➡️ Rust <br />
 
 ## Aktuelle Projekt
-🔭 I am currently working on Chronexus.de
+🔭 I am currently working for BIRP
 
-🌱 I learning Svelte and Haskell for fun!
+🌱 I learning React with Tanstack for fun!
 
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
