@@ -26,9 +26,9 @@ Ich bin ser Lernfreudig und bilde mich mit jedem Projekt weiter in neuen Themen 
  ➡️ Rust <br />
 
 ## Aktuelle Projekt
-🔭 I am currently working for BIRP
+🔭 I am currently working for -
 
-🌱 I learning React with Tanstack for fun!
+🌱 I learning to become and human
 
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
