@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="LearNivram – Hinten Go. Vorne Svelte." width="100%">
+  <img src="./ressourcen/banner.svg" alt="LearNivram – Hinten Go. Vorne Svelte." width="100%">
 </p>
 
 <p align="center">
